@@ -8,9 +8,9 @@
   <Description DefaultValue="A template to get started."/>
   <IconUrl DefaultValue="https://katerinouskia.github.io/Word_AddIn/icon-32.png"/>
   <HighResolutionIconUrl DefaultValue="https://katerinouskia.github.io/Word_AddIn/icon-64.png"/>
-  <SupportUrl DefaultValue="https://www.contoso.com/help"/>
+  <SupportUrl DefaultValue=""/>
   <AppDomains>
-    <AppDomain>https://www.contoso.com</AppDomain>
+    <AppDomain>https://katerinouskia.github.io</AppDomain>
   </AppDomains>
   <Hosts>
     <Host Name="Document"/>
